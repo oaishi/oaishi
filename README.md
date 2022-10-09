@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=oaishi" alt="oaishi" /> [![Twitter: FariaHuqOaishi](https://img.shields.io/twitter/follow/FariaHuqOaishi?style=social)](https://twitter.com/FariaHuqOaishi)
 [![Linkedin: faria-huq-058b2a145](https://img.shields.io/badge/-Faria-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faria-huq-058b2a145/)](https://www.linkedin.com/in/faria-huq-058b2a145/)
 [![GitHub Oaishi](https://img.shields.io/github/followers/oaishi?label=follow&style=social)](https://github.com/Oaishi)
-[![Google Scholar Oaishi](https://img.shields.io/badge/-GoogleScholar-grey?style=flat&logo=googlescholar&logoColor=white&link=https://www.linkedin.com/in/faria-huq-058b2a145/)](https://www.linkedin.com/in/faria-huq-058b2a145/)
+[![Google Scholar Oaishi](https://img.shields.io/badge/-GoogleScholar-grey?style=flat&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=u-HabqEAAAAJ&hl=en)](https://scholar.google.com/citations?user=u-HabqEAAAAJ&hl=en/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
