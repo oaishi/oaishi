@@ -21,7 +21,3 @@ const Faria = {
   Fun Fact: "My name is pronounced as Faria Hawk"
 }
 ```
-
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> Github Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=oaishi&show_icons=true&count_private=true)](https://github.com/oaishi)
