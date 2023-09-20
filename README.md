@@ -15,8 +15,8 @@
 ```javascript
 const Faria = {
   pronouns: "she" | "her",
-  Research Interest: "Human-AI Interaction, Assistive and Creative Toolkit",
-  Current Project: "Creating Intelligent Mobile UI",
+  Research Interest: "Human-AI Interaction, Assistive Agents, Creative Toolkit",
+  Current Project: "Autonomous agents for UI surfing",
   Nickname: "Oaishi",
   Fun Fact: "My name is pronounced as Faria Hawk"
 }
