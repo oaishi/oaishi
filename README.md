@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>PhD Student at <a href="https://www.hcii.cmu.edu/">CMU HCII (School of Computer Science)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
-  My awesome advisor: <a href="https://www.thoughtworks.com">Prof. Jeff Bigham</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  My awesome advisor: <a href="https://www.shirado.net/">Prof. Hiro Shirado</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <img src="https://komarev.com/ghpvc/?username=oaishi" alt="oaishi" /> [![Twitter: FariaHuqOaishi](https://img.shields.io/twitter/follow/FariaHuqOaishi?style=social)](https://twitter.com/FariaHuqOaishi)
